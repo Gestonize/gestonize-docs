@@ -22,12 +22,6 @@ Sistema completo de gestão empresarial desenvolvido para transformar sua empres
 - Alertas automáticos de oportunidades
 - Análise de comportamento do cliente
 
-### Estoque Estratégico
-- Monitoramento em tempo real de materiais
-- Previsão de demanda com IA
-- Otimização de compras e estoque
-- Redução de perdas e desperdícios
-
 ## Recursos Disponíveis
 
 ### Dashboard
