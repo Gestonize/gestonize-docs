@@ -8,6 +8,7 @@ O módulo Orçamentos permite visualizar, acompanhar e gerenciar todos os orçam
 
 - Clique em **"Orçamentos"** no menu lateral esquerdo.
 - O sistema abrirá em modo de listagem, exibindo os orçamentos cadastrados em formato de tabela.
+- Para acessar um orçamento basta clicar em sua linha, sobre o número ou título ou nome de cliente por exemplo.
 
 ---
 
@@ -29,7 +30,7 @@ O módulo Orçamentos permite visualizar, acompanhar e gerenciar todos os orçam
 - Mantenha os **títulos claros e descritivos** para facilitar a identificação futura.
 
 
-##Botões e Ações Disponíveis
+## Botões e Ações Disponíveis
 Exibir [X] resultados por página: Permite selecionar a quantidade de registros visíveis por página.
 
 Ordenação por coluna (↑↓): Clicando nos cabeçalhos das colunas é possível ordenar os dados exibidos.
