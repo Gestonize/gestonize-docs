@@ -4,35 +4,33 @@
 
 ### Visão Geral
 
-A tela **Banco** permite cadastrar e gerenciar as contas financeiras da empresa, como contas bancárias, caixa físico, entre outros destinos de movimentações financeiras. Essas contas são utilizadas em lançamentos do módulo financeiro e no controle de saldo por conta.
+O módulo **Banco** permite o cadastro e gerenciamento de contas financeiras, como bancos, contas digitais e caixa da empresa. Essas contas são utilizadas nos lançamentos financeiros e vinculadas às formas de pagamento.
 
 ---
 
 ### Funcionalidades da Tela
 
-- **Listagem de bancos cadastrados** com identificação e saldo atual.
-- **Botão "Cadastrar Banco"** para incluir uma nova conta bancária ou tipo de caixa.
-- **Busca e paginação** para facilitar a navegação em grandes volumes de dados.
-- **Edição rápida**: clique sobre o registro para visualizar e editar as informações do banco.
+- **Listagem de contas cadastradas** com nome e saldo atual.
+- **Cadastrar Banco**: abre o formulário para inclusão de uma nova conta.
+- **Edição**: clique sobre o banco para editar os dados.
+- **Busca e paginação** para navegação rápida.
 
 ---
 
 ### Passo a Passo: Cadastrar um Banco
 
-1. Acesse o menu **Financeiro > Banco**.
-2. Clique em **"Cadastrar Banco"**.
-3. Preencha o campo **Nome do Banco**.
-   - Exemplo: `Banco Itaú - Ag 1234 - Conta 12345-0`
-   - Exemplo: `Caixa da Empresa`, `Conta Mercado Pago`, `Conta Bradesco PJ`
+1. Clique no menu **Financeiro > Banco**.
+2. Clique no botão **"Cadastrar Banco"**.
+3. Informe o **nome do banco ou conta**.
+   - Exemplos:
+     - `Banco Bradesco - Ag 1234 - Conta 56789-0`
+     - `Caixa da Empresa`
+     - `Mercado Pago - Conta Digital`
 4. Clique em **Cadastrar**.
 
 ---
 
-### Dicas Importantes
+### Importante
 
-- Use nomes claros e completos ao identificar os bancos e contas, incluindo agência e número de conta sempre que possível.
-- Contas cadastradas aqui são usadas em lançamentos financeiros e em filtros de relatórios.
-- O saldo demonstrado reflete os lançamentos confirmados no sistema.
-
----
-
+- Bancos cadastrados aqui poderão ser **vinculados às formas de pagamento** no módulo **Financeiro > Forma de Pagamento**.
+- O **saldo apresentado** é resultado dos lançamentos de entrada e saída confirmados no sistema.
