@@ -23,7 +23,7 @@ O módulo **Banco** permite o cadastro e gerenciamento de contas financeiras, co
 2. Clique no botão **"Cadastrar Banco"**.
 3. Informe o **nome do banco ou conta**.
    - Exemplos:
-     - `Banco Bradesco - Ag 1234 - Conta 56789-0`
+     - `Banco Bradesco - Ag 1234 - Conta 12345-0`
      - `Caixa da Empresa`
      - `Mercado Pago - Conta Digital`
 4. Clique em **Cadastrar**.
