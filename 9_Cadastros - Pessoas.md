@@ -77,3 +77,6 @@ Após cadastrar os tipos de comissão, o campo será disponibilizado automaticam
 - Utilize nomes claros para os endereços e contatos, principalmente em empresas com múltiplos locais.
 - Sempre complete as **3 etapas** para garantir um cadastro completo e funcional.
 
+---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
