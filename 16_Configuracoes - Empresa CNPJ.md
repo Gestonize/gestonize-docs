@@ -60,4 +60,4 @@ Clique em **Salvar** para concluir.
 - O CNPJ cadastrado pode ser exibido automaticamente no **Cabeçalho de Impressão**.
 - Utilize nomes fantasia para identificação prática de filiais, setores ou marcas.
 
-> ⚠️ **Atenção**: É recomendável cadastrar a empresa logo após a instalação/configuração inicial do sistema.
+> ⚠️ **Atenção**: É recomendável cadastrar a empresa logo após a aquisição/configuração inicial do sistema.
