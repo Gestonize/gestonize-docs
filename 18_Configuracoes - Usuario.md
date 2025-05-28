@@ -156,3 +156,9 @@ Para editar as permissões do usuário, é necessário que ele esteja cadastrado
 | Permissão     | Descrição                                 |
 |----------------|--------------------------------------------|
 | Criar ticket  | Permite ao usuário abrir tickets de suporte |
+
+
+---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
+
