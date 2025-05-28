@@ -12,3 +12,7 @@ Bem-vindo ao tutorial do Gestonize! Este guia vai te ajudar a dominar todas as f
 - Menu lateral com 8 botões principais
 - Submenus específicos para cada funcionalidade
 - Interface intuitiva e responsiva
+
+---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
