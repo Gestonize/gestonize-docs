@@ -34,3 +34,7 @@ A tela **Banco** permite realizar o cadastro e gerenciamento de contas financeir
 
 - Bancos cadastrados aqui poderão ser **vinculados às formas de pagamento** no módulo **Financeiro > Forma de Pagamento**.
 - O **saldo apresentado** é resultado dos lançamentos de entrada e saída confirmados no sistema.
+
+---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
