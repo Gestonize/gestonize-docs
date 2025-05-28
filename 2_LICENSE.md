@@ -51,3 +51,8 @@
 
 - Este Termo será regido e interpretado conforme as leis do Brasil
 - Qualquer disputa será resolvida através de mediação
+
+  ---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
+
