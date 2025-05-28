@@ -1,10 +1,10 @@
-## Tutorial: Cadastro de Banco/Conta Financeira
+## Tutorial: Como cadastrar Banco/Conta Financeira
 
 ---
 
 ### Visão Geral
 
-O módulo **Banco** permite o cadastro e gerenciamento de contas financeiras, como bancos, contas digitais e caixa da empresa. Essas contas são utilizadas nos lançamentos financeiros e vinculadas às formas de pagamento.
+A tela **Banco** permite realizar o cadastro e gerenciamento de contas financeiras, como bancos, contas digitais e caixa da empresa. Essas contas são utilizadas nos lançamentos financeiros e vinculadas às formas de pagamento.
 
 ---
 
