@@ -4,7 +4,7 @@
 
 ### Visão Geral
 
-O cadastro de **Forma de Pagamento** permite cadastrar os meios de recebimento e pagamento utilizados pela empresa, como Pix, Dinheiro, Transferência, Cartão, entre outros. Cada forma pode ser **vinculada a um banco**, permitindo o rastreio preciso da movimentação financeira.
+A tela **Forma de Pagamento** permite cadastrar os meios de recebimento e pagamento utilizados pela empresa, como Pix, Dinheiro, Transferência, Cartão, entre outros. Cada forma pode ser **vinculada a um banco**, permitindo o rastreio preciso da movimentação financeira.
 
 ---
 
