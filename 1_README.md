@@ -56,5 +56,5 @@ Sistema completo de gestão empresarial desenvolvido para transformar sua empres
 
 Para suporte técnico ou dúvidas:
 - Email: [suporte@gestonize.com](mailto:suporte@gestonize.com)
-- WhatsApp: [Número]
+- Ticket: [através do sistema]
 - Chat online disponível 24/7 no site
