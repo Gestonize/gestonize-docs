@@ -1,10 +1,10 @@
-## Tutorial: Cadastro de Forma de Pagamento
+## Tutorial: Como cadastrar Forma de Pagamento
 
 ---
 
 ### Visão Geral
 
-O módulo **Forma de Pagamento** permite cadastrar os meios de recebimento e pagamento utilizados pela empresa, como Pix, Dinheiro, Transferência, Cartão, entre outros. Cada forma pode ser **vinculada a um banco**, permitindo o rastreio preciso da movimentação financeira.
+O cadastro de **Forma de Pagamento** permite cadastrar os meios de recebimento e pagamento utilizados pela empresa, como Pix, Dinheiro, Transferência, Cartão, entre outros. Cada forma pode ser **vinculada a um banco**, permitindo o rastreio preciso da movimentação financeira.
 
 ---
 
