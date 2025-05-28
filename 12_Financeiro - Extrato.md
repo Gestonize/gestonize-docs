@@ -81,3 +81,7 @@ A tela **Financeiro > Forma de Pagamento** permite cadastrar e manter as opçõe
 - Utilize **formas de pagamento padronizadas** para manter consistência nos relatórios.
 - Utilize **contas bancárias separadas** para facilitar o controle de saldos.
 - Lançamentos com **data futura exigem confirmação** para que impactem no saldo geral.
+
+---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
