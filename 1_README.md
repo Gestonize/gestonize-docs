@@ -58,3 +58,7 @@ Para suporte técnico ou dúvidas:
 - Email: [suporte@gestonize.com](mailto:suporte@gestonize.com)
 - Ticket: [através do sistema]
 - Chat online disponível 24/7 no site
+
+---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
