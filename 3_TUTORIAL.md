@@ -15,4 +15,4 @@ Bem-vindo ao tutorial do Gestonize! Este guia vai te ajudar a dominar todas as f
 
 ---
 
-⬅️ [Voltar ao Índice](./1.a_Indice.md)
+⬅️ [Voltar ao Índice](./1.1_Indice.md)
