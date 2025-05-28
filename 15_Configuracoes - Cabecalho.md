@@ -1,4 +1,4 @@
-# Tutorial: Como Configurar Cabeçalho de Empresa
+# Tutorial: Como configurar cabeçalho de Empresa
 
 ## Visão Geral
 
