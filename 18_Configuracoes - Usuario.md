@@ -1,4 +1,4 @@
-## Configurações - Config. Usuários
+## Configurações - Usuários
 
 ### Visão Geral
 
