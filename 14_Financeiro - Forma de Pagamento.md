@@ -42,3 +42,8 @@ A tela **Forma de Pagamento** permite cadastrar os meios de recebimento e pagame
 
 - Vincule corretamente a forma de pagamento ao **banco de origem**, para que os lançamentos reflitam no saldo correto.
 - Formas de pagamento são utilizadas em **todos os lançamentos financeiros** do sistema.
+
+  ---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
+
