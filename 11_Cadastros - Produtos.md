@@ -4,7 +4,7 @@
 
 ### Visão Geral
 
-O módulo **Produtos** permite o cadastro completo dos itens comercializados pela empresa, organizando por grupos, tipos e atributos detalhados como medidas, cor, valor e imagem. Ideal para empresas que trabalham com controle de estoque, vendas e orçamentos.
+A tela **Produtos** permite o cadastro completo dos itens comercializados pela empresa, organizando por grupos, tipos e atributos detalhados como medidas, cor, valor e imagem. Ideal para empresas que trabalham com controle de estoque, vendas e orçamentos.
 
 Ao acessar a tela **Cadastros > Produtos**, o sistema apresenta o **relatório com todos os produtos cadastrados**, contendo informações como código, medidas, valores e descrição.
 
