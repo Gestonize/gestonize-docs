@@ -45,3 +45,6 @@ A comissão cadastrada será vinculada a um colaborador do tipo **Comissionado**
 - Caso um colaborador **não receba comissão**, pode-se criar uma forma com valor `0` e nomeá-la como "Não comissionado".
 - A comissão impacta diretamente nos relatórios de desempenho e pagamentos, garantindo uma gestão de equipe mais transparente.
 
+---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
