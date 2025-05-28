@@ -47,3 +47,8 @@ Este recurso permite cadastrar números de telefone e vinculá-los a usuários p
 
 - Definir os campos padrão que devem aparecer na impressão de orçamentos.
 - Cadastrar números autorizados a utilizar o robô de geração de orçamentos via WhatsApp.
+
+  ---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
+
