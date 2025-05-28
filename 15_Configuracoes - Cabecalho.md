@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-A  **Configuração de Cabeçalho** permite o gerenciamento dos cabeçalhos utilizados na impressão de orçamentos, documentos e demais saídas do sistema. A funcionalidade tem como objetivo padronizar e personalizar a identidade da empresa nos documentos emitidos.
+A tela **Configuração de Cabeçalho** permite o gerenciamento dos cabeçalhos utilizados na impressão de orçamentos, documentos e demais saídas do sistema. A funcionalidade tem como objetivo padronizar e personalizar a identidade da empresa nos documentos emitidos.
 
 ## Ciclo de Vida
 
