@@ -8,7 +8,7 @@ Este repositório contém os arquivos de apoio e instruções de uso das funcion
 
 Para navegar pela documentação completa, acesse o índice:
 
-➡️ [Ir para o Índice de Documentação](./1.a_Indice.md)
+➡️ [Ir para o Índice de Documentação](./1.1_Indice.md)
 
 ---
 
