@@ -50,5 +50,4 @@ Este recurso permite cadastrar números de telefone e vinculá-los a usuários p
 
   ---
 
-⬅️ [Voltar ao Índice](./1.a_Indice.md)
-
+⬅️ [Voltar ao Índice](./1.1_Indice.md)
