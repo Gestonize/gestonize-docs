@@ -61,3 +61,7 @@ Clique em **Salvar** para concluir.
 - Utilize nomes fantasia para identificação prática de filiais, setores ou marcas.
 
 > ⚠️ **Atenção**: É recomendável cadastrar a empresa logo após a aquisição/configuração inicial do sistema.
+
+---
+
+⬅️ [Voltar ao Índice](./1.a_Indice.md)
