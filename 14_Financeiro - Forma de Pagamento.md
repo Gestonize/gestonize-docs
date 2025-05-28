@@ -1,4 +1,4 @@
-## Tutorial: Financeiro > Forma de Pagamento
+## Tutorial: Cadastro de Forma de Pagamento
 
 ---
 
