@@ -1,10 +1,10 @@
-## Tutorial: Cadastro de Documentos 
+## Tutorial: Como cadastrar documentos 
 
 ---
 
 ### Visão Geral
 
-O módulo **Documentos** permite cadastrar, organizar e padronizar os principais modelos de documentos utilizados pela empresa, como certificados, contratos, termos e declarações. Esses documentos podem ser utilizados posteriormente em outros módulos, garantindo consistência e agilidade nos processos.
+A tela **Documentos** permite cadastrar, organizar e padronizar os principais modelos de documentos utilizados pela empresa, como certificados, contratos, termos e declarações. Esses documentos podem ser utilizados posteriormente em outros módulos, garantindo consistência e agilidade nos processos.
 
 ---
 
