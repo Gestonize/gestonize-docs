@@ -45,5 +45,4 @@ A tela **Forma de Pagamento** permite cadastrar os meios de recebimento e pagame
 
   ---
 
-⬅️ [Voltar ao Índice](./1.a_Indice.md)
-
+⬅️ [Voltar ao Índice](./1.1_Indice.md)
